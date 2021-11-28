@@ -1,8 +1,7 @@
+### Saudações Amigo, estou feliz por estar aqui!🤗
+#### Espero contribuir com a sua caminhada e vcê com a minha! 🤝
 
-
-### "Linhas de código falam mais que Mil palavras", por isso leia os meus!🤗.
-
-####  Meu nome é Eduardo Bovareto e eu tenho 19 anos! 😎
+####  Meu nome é Eduardo Bovareto e eu tenho 19 anos e estudo programação recentemente na faculdade, tenho percebido minha evolução de cara! 😎
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bovareto_eduard/)
@@ -24,3 +23,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 </div>
 </div>
+<br>
+
+<h3 style="border:3px lightseagreen solid; padding:3px; background-color:lightseagreen; text-align:center; font-weight:bolder; font-size:20px;">Formação Acadêmica</h3>
+<p>
+<ul>
+<li>Graduação:UFF-RJ (CEDERJ) 1º Período, (1º/11º)</li> 
+<img alt="CEDERJ" src="https://educacaopublica.cecierj.edu.br/assets/themes/revista/img/partners_cecierj.png" style=" display:block; margin-left:auto;">
+<li>Curso:Tecnologia em Sistemas da computação</li>
+</ul>
+</p>
