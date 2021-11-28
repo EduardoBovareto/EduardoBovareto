@@ -1,5 +1,5 @@
 ### Saudações Amigo, estou feliz por estar aqui!🤗
-#### Espero contribuir com a sua caminhada e vcê com a minha! 🤝
+#### Espero contribuir com a sua caminhada e você com a minha! 🤝
 
 ####  Meu nome é Eduardo Bovareto e eu tenho 19 anos e estudo programação recentemente na faculdade, tenho percebido minha evolução de cara! 😎
 <br>
@@ -33,3 +33,17 @@
 <li>Curso:Tecnologia em Sistemas da computação</li>
 </ul>
 </p>
+<br>
+
+### Sobre mim
+ ### Minha iniciação na tecnologia foi de certa forma inusitada. 🙄
+
+### Eu comecei em um curso de Automação Industrial, um curso sobre controle de processos industriais e automatização para retirada do homem cada vez mais.
+
+###  "Controladores com lógicas a serem programadas" são o principal método por assim dizer, e o que eu mais gostei, terminei o curso em 2019. 🖥️
+<br>
+
+###  Eu fiquei com uma sensação que esse era o caminho, não esse industrial, mas o da parte mais divertida, a de ficar 5 horas em contato com uma linguagem que exige muito de  lógica de programação.
+<br>
+
+###  O que me atraiu para procurar sobre HTML5 e CSS3, desde então, aqui estou eu, escrevendo isso é claro.
