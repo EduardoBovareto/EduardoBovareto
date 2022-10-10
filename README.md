@@ -1,7 +1,7 @@
 ### Saudações Amigo, estou feliz por estar aqui!🤗
 #### Espero contribuir com a sua caminhada e você com a minha! 🤝
 
-####  Meu nome é Eduardo Bovareto e eu tenho 19 anos e estudo programação recentemente na faculdade, tenho percebido minha evolução de cara! 😎
+####  Meu nome é Eduardo Bovareto, sou estudante de  programação e recentemente na faculdade, tenho percebido minha evolução e aos poucos crescido😎
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bovareto_eduard/)
@@ -17,10 +17,10 @@
 ### Tecnologias: 
 <div style=" display:flex">
 <div style=" display:flex; margin-left:auto; margin-right:auto;">
-
+<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </div>
 </div>
 <br>
