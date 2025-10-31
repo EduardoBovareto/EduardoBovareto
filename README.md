@@ -59,8 +59,6 @@ Espero poder contribuir com a comunidade e aprender aqui dentro, realizando troc
 <div>
 <a href="https://github.com/EduardoBovareto">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBovareto&layout=compact&langs_count=7&theme=dracula"/>
- 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoBovareto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<br>
+![Snake animation](https://github.com/EduardoBovareto/EduardoBovareto/blob/output/github-contribution-grid-snake.svg)![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
