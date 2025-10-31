@@ -63,5 +63,3 @@ Espero poder contribuir com a comunidade e aprender aqui dentro, realizando troc
 </div>
 
 <br>
-
-[Snake animation](https://github.com/EduardoBovareto/EduardoBovareto/blob/output/github-contribution-grid-snake.svg)
