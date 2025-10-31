@@ -12,7 +12,7 @@ EStou cursando engenharia da computação e tenho o sonho de me tornar programad
 
 <ins>Minha iniciação na tecnologia foi de certa forma inusitada. 🙄</ins>
 
-***Eu comecei em um curso de Automação Industrial, um curso sobre controle de processos industriais e automatização para retirada do homem cada vez mais.***
+***Eu comecei em um curso de Automação Industrial, um curso sobre controle de processos industriais e automatização de sistema de fabrica.***
 
  "Controladores com lógicas a serem programadas" são o principal método por assim dizer, e o que eu mais gostei, terminei o curso em 2019. 🖥️
 <br>
